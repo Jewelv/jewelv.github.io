@@ -1,7 +1,7 @@
 ---
 title: 'Why I Mentor?'
 date: 2020-08-03
-permalink: /posts/2020/08/why-mentor/
+permalink: /posts/2020/08/why_mentor/
 tags:
   - blog posts
   - mentoring

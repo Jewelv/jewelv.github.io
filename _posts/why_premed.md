@@ -1,7 +1,7 @@
 ---
 title: 'Why Pre-MD/PhD?'
 date: 2020-07-20
-permalink: /posts/2020/07/why-premdphd/
+permalink: /posts/2020/07/why_premdphd/
 tags:
   - blog posts
   - premdphd

@@ -15,8 +15,8 @@ My name is Jewel Voyer.
 * undergraduate student at the University of Rhode Island. 
 
 * majoring in Biological Sciences and Interdisciplinary Neuroscience 
-* minor in Chemistry. 
+* minor in Chemistry 
 
-* MARC U* Star Trainee.
+* MARC U* Star Trainee
 
 * Prospective MD/PhD matriculant

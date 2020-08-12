@@ -79,28 +79,11 @@ Skills
 Volunteer Service
 =====
 * Blood Donor Screener
- * American Red Cross
+  * American Red Cross
   * Take the temperature and ensure blood donors understand the guidelines to donating blood at donation. sites.
 * Emergency Medical Services
- * University of Rhode Island
+  * University of Rhode Island
   * First responder to serve the University of Rhode Island campus as well as act as a mutual aid to the surrounding area.
 
-# Publications
-# ======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-# Talks
-# ======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-# Teaching
-# ======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 

@@ -16,4 +16,4 @@ I am an undergraduate student at the University of Rhode Island.
 
 I am majoring in Biological Sciences and Interdisciplinary Neuroscience with a minor in Chemistry. 
 
-I participate as a MARC U^* Star Trainee.
+I participate as a MARC U* Star Trainee.

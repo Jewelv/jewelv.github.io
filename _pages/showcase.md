@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A Phylogeny of the Ixodes Genus"
+title: "A Phylogeny of the Ixodes Genus (Hard-Bodied Ticks)"
 permalink: /showcase/
 author_profile: true
 redirect_from:

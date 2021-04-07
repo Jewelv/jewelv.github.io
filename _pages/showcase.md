@@ -22,8 +22,8 @@ Poster
 ======
 <img src ="images/Voyer_Jewel_Poster.png">
 
-<object data="abc.pdf" type="application/pdf">
-    <embed src="abc.pdf" type="application/pdf" />
+<object data="images/Phylogengy_Poster_Print.pdf" type="application/pdf">
+    <embed src="images/Phylogengy_Poster_Print.pdf" type="application/pdf" />
 </object>
 
 Personal Video

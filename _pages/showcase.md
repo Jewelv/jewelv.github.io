@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Jewel Voyer, Dr. Rachel Schwartz
+=
 The University of Rhode Island
 Department of Biological Sciences
 

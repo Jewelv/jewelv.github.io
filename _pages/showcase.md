@@ -20,7 +20,7 @@ A phylogeny provides evolutionary relationships between certain taxa which then 
 
 Poster
 ======
-image: https://github.com/Jewelv/jewelv.github.io/blob/0131d87867d06bf599328a5bb0a677cecc9a35d5/images/Phylogengy_Poster_Print.pdf
+<br/><img src='/images/Phylogengy_Poster_Print.pdf'>
 
 Personal Video
 ======

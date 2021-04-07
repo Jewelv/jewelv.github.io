@@ -11,7 +11,7 @@ redirect_from:
 
 ## Jewel Voyer, Dr. Rachel Schwartz
 The University of Rhode Island:
-Department of Biological Sciences
+  Department of Biological Sciences
 
 
 Abstract

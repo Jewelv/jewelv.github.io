@@ -22,6 +22,10 @@ Poster
 ======
 <img src ="images/Voyer_Jewel_Poster.png">
 
+<object data="abc.pdf" type="application/pdf">
+    <embed src="abc.pdf" type="application/pdf" />
+</object>
+
 Personal Video
 ======
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6A5EpqqDOdk" frameborder="0" allowfullscreen></iframe>

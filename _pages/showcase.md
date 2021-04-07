@@ -20,7 +20,6 @@ A phylogeny provides evolutionary relationships between certain taxa which then 
 
 Poster
 ======
-# <img src ="images/Voyer_Jewel_Poster.png">
 
 ![image tooltip here](/images/Voyer_Jewel_Poster.png)
 

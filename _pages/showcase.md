@@ -29,3 +29,9 @@ Personal Video
 
 Discussion
 ======
+<!-- Disqus -->
+{% if site.theme.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}

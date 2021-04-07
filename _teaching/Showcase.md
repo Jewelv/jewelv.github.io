@@ -1,8 +1,8 @@
 ---
 title: "A Phylogeny of the Ixodes Genus"
-collection: teaching
+collection: showcase
 type: "Undergraduate course"
-permalink: /teaching/Showcase
+permalink: /showcase/Showcase
 venue: "The University of Rhode Island: Department of Biological Sciences"
 date: 2021-04-16
 location: "Kingston, Rhode Island"

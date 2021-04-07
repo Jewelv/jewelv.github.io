@@ -20,11 +20,9 @@ A phylogeny provides evolutionary relationships between certain taxa which then 
 
 Poster
 ======
-<img src ="images/Voyer_Jewel_Poster.png">
+#<img src ="images/Voyer_Jewel_Poster.png">
 
-<object data="images/Phylogengy_Poster_Print.pdf" type="application/pdf">
-    <embed src="images/Phylogengy_Poster_Print.pdf" type="application/pdf" />
-</object>
+![Phylogeny](images/Voyer_Jewel_Poster.png){:class="img-responsive"}
 
 Personal Video
 ======

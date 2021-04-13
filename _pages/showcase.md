@@ -37,6 +37,13 @@ Discussion
 #</div>
 #{% endif %}
 
+<!-- Disqus -->
+{% if site.theme.disqus_shortname %}
+<div class="comments">
+  {% showcasejewelvoyer.disqus.com/ %}
+</div>
+{% endif %}
+
 #<script id="dsq-count-scr" src="//showcasejewelvoyer.disqus.com/count.js" async></script>
 
 <div id="disqus_thread"></div>

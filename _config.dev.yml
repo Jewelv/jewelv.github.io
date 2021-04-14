@@ -5,9 +5,9 @@ url: http://localhost:4000
 analytics:
   provider: false
 
-comments: true
+comments: 
   disqus:
-    shortname            : showcasejewelvoyer
+    shortname            : 
 
 sass:
   style: expanded

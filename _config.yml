@@ -325,4 +325,4 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-minimal
-disqus_shortname: "exampleshortname"
+#disqus_shortname: "exampleshortname"

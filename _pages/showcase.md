@@ -31,16 +31,17 @@ Personal Video
 
 Discussion
 ======
+
+Please leave your comments on the personal video youtube page. 
+Thank you!
+
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = "https://" + PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = "https://" + PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  var disqus_config = function () {
+    this.page.url = "https://" + "jewelv.github.io/showcase;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = "https://" + "showcase"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
     (function() { // DON'T EDIT BELOW THIS LINE

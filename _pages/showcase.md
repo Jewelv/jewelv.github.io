@@ -31,7 +31,6 @@ Personal Video
 
 Discussion
 ======
-{% if page.comments != false and jekyll.environment == "production" %}
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -51,4 +50,3 @@ Discussion
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}

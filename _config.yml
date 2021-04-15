@@ -211,9 +211,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: archive
       author_profile: true
-      #comments: true
+      comments: true
   # _teaching
   - scope:
       path: ""

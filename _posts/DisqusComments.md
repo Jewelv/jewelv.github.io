@@ -1,4 +1,12 @@
-
+---
+title: 'Disqus Comments'
+date: 2021-04-21
+permalink: /posts/2021/04/disquscomments/
+comments: true
+tags:
+  - blog posts
+  - premdphd
+---
 
 
 <div id="disqus_thread"></div>

@@ -22,8 +22,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 talkmap_link             : true #change to true to add link to talkmap on talks page
 comments                 : 
 provider                 : "disqus"
-disqus:
-  shortname              : "showcasejewelvoyer"
+disqus_shortname         : "showcasejewelvoyer"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:

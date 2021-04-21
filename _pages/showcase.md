@@ -26,13 +26,14 @@ Poster
 
 Personal Video
 ======
-<iframe width="560" height="315" src="https://youtu.be/OL4BV1t5dzc" frameborder="0" allowfullscreen></iframe>
-
+#<iframe width="560" height="315" src="https://youtu.be/OL4BV1t5dzc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OL4BV1t5dzc" frameborder="0" allowfullscreen></iframe>
 
 Discussion
 ======
 
 Please leave your comments on the following website: 
+
   <https://showcasecomments.weebly.com/student-showcase-comments/discussion>
 Thank you!
 

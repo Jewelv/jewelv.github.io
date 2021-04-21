@@ -35,6 +35,7 @@ Discussion
 Please leave your comments on the following website: 
 
   <https://showcasecomments.weebly.com/student-showcase-comments/discussion>
+  
 Thank you!
 
 <div id="disqus_thread"></div>
